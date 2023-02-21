@@ -1,0 +1,55 @@
+#b-image {
+    background-image: url(./baobab_madagascar-MAX-w1000h600.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size:cover;
+}
+.b-center{
+    margin-right: 0%;
+    color: azure;
+
+}
+.legende{
+    width: max-content;
+    padding: 20px 50px;
+    position: relative;
+    top:25vh;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-size:cover;
+    font-family: cursive;
+}
+.centrer{
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+}
+nav a{
+    font-size:x-large;
+    text-decoration:none;
+    margin-left: 2vw;
+    margin:2vh;
+}
+body{
+    margin: auto;
+}
+
+.descri{
+    width: max-content;
+    font-size: 400%; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.sous-titre {
+    margin-left:30%;
+    text-decoration: underline;
+}
+.t-center{
+    text-align: center;
+}
+#b-gras{
+    font-size: 600%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
